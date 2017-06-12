@@ -83,8 +83,6 @@ annotation: ok
 1f487 1f3fd # medium skin tone
 1f487 1f3fe # medium-dark skin tone
 1f487 1f3ff # dark skin tone
-1f48f # KISS -> kiss: woman, man
-1f491 # COUPLE WITH HEART -> couple with heart: woman, man
 1f575 # SLEUTH OR SPY -> man detective
 1f575 1f3fb # light skin tone
 1f575 1f3fc # medium-light skin tone
