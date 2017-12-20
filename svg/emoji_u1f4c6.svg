@@ -1,6 +1,6 @@
 <svg width="128" height="128" style="enable-background:new 0 0 128 128;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <font horiz-adv-x="2048">
-    <font-face font-family="Roboto-Bold" underline-position="-150" underline-thickness="100" units-per-em="2048"/>
+    <font-face font-family="Roboto" font-weight="bold" underline-position="-150" underline-thickness="100" units-per-em="2048"/>
     <missing-glyph d="M808,0l-708,0l0,1456l708,0M754,84l0,1287l-274,-643M154,1359l0,-1263l268,632M194,54l515,0l-258,606M451,796l258,606l-515,0z" horiz-adv-x="908"/>
     <glyph d="M801,0l-289,0l0,1114l-345,-107l0,235l603,216l31,0z" horiz-adv-x="1175" unicode="1"/>
     <glyph d="M1089,1294l-563,-1294l-305,0l564,1222l-724,0l0,234l1028,0z" horiz-adv-x="1175" unicode="7"/>
@@ -44,11 +44,11 @@
       <path d="M122.5,84.62V26.84c0-5.76-4.67-10.43-10.43-10.43H15.93c-5.76,0-10.43,4.67-10.43,10.43v72.73 c0,5.52,4.48,10,10,10h69.9C99.66,104.79,113.72,96.62,122.5,84.62z" style="fill:#E0E0E0;"/>
       <path d="M122.5,47H5.5V11.04c0-4.42,3.58-8,8-8h101c4.42,0,8,3.58,8,8V47z" style="fill:#1E88E5;"/>
       <rect height="49.04" style="fill:none;" width="73.03" x="27.49" y="53.6"/>
-      <text style="fill:#2F2F2F; font-family:'Roboto-Bold'; font-size:60px;" transform="matrix(1 0 0 1 27.4865 98.5988)">
+      <text style="fill:#2F2F2F; font-family:Roboto; font-weight:bold; font-size:60px;" transform="matrix(1 0 0 1 27.4865 98.5988)">
 17
       </text>
       <rect height="33.18" style="fill:none;" width="61.76" x="33.12" y="9.43"/>
-      <text style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:32px;" transform="matrix(1 0 0 1 33.1196 33.4338)">
+      <text style="fill:#FFFFFF; font-family:Roboto; font-weight:bold; font-size:32px;" transform="matrix(1 0 0 1 33.1196 33.4338)">
 July
       </text>
     </g>
