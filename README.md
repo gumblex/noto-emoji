@@ -1,4 +1,13 @@
 ![Noto](images/noto.png)
+# Noto Emoji Classic
+
+Classic Android 4.4 style "blob" Noto Emoji. Trying to backport new emojis to
+the lovely old design, maintaining style compatibility.
+
+For another implementation, see: https://github.com/C1710/blobmoji/tree/blob
+
+---
+
 # Noto Emoji
 Color and Black-and-White Noto emoji fonts, and tools for working with them.
 
