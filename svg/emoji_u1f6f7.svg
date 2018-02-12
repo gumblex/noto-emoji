@@ -37,33 +37,33 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1853"
-     inkscape:window-height="1016"
+     inkscape:window-width="1177"
+     inkscape:window-height="803"
      id="namedview319"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="89.187994"
-     inkscape:cy="92.645571"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.84375"
+     inkscape:cx="28.428357"
+     inkscape:cy="98.132974"
+     inkscape:window-x="735"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" />
   <g
      id="Layer_1">
     <path
        inkscape:connector-curvature="0"
        id="path7"
-       style="fill:#f57c00"
+       style="fill:#ed6c30;fill-opacity:1"
        d="m 54.47,85.39 c -1.77,0 -3.2,-1.29 -3.2,-2.88 V 64.09 c 0,-1.59 1.43,-2.88 3.2,-2.88 1.77,0 3.2,1.29 3.2,2.88 v 18.43 c -0.01,1.58 -1.44,2.87 -3.2,2.87 z" />
     <path
        inkscape:connector-curvature="0"
        id="path16"
-       style="fill:#f57c00"
+       style="fill:#ed6c30;fill-opacity:1"
        d="m 83.55,85.39 c -1.77,0 -3.2,-1.29 -3.2,-2.88 V 64.09 c 0,-1.59 1.43,-2.88 3.2,-2.88 1.77,0 3.2,1.29 3.2,2.88 v 18.43 c -0.01,1.58 -1.44,2.87 -3.2,2.87 z" />
     <path
        inkscape:connector-curvature="0"
        id="path25"
-       style="fill:#f57c00"
+       style="fill:#ed6c30;fill-opacity:1"
        d="m 112.62,85.39 c -1.77,0 -3.2,-1.29 -3.2,-2.88 V 64.09 c 0,-1.59 1.43,-2.88 3.2,-2.88 1.77,0 3.2,1.29 3.2,2.88 v 18.43 c 0,1.58 -1.43,2.87 -3.2,2.87 z" />
     <linearGradient
        id="SVGID_5_"
@@ -83,12 +83,12 @@
     </linearGradient>
     <path
        d="M124,51.2c0-2.25-1.83-4.08-4.08-4.08H84.77c-5.2,0-9.78,2.62-12.5,6.61 c-2.19,3.21-5.8,5.15-9.68,5.15l-18.86,0c-2.23,0-4.22,1.63-4.43,3.84c-0.24,2.54,1.75,4.68,4.24,4.68h76.14 c2.35,0,4.26-1.91,4.26-4.26c0-0.06-0.01-0.11-0.02-0.16H124V51.2z"
-       style="fill:#f79329"
+       style="fill:#fcc21b;fill-opacity:1"
        id="path46" />
     <path
        inkscape:connector-curvature="0"
        id="path55"
-       style="fill:#f57c00"
+       style="fill:#ed6c30;fill-opacity:1"
        d="m 117.26,87.3 h -78 C 31.43,87.3 14.74,83.68 7.65,69.98 -0.9,53.5 9.68,40.45 10.13,39.9 c 1.5,-1.81 4.19,-2.06 6,-0.56 1.81,1.5 2.06,4.17 0.57,5.99 -0.35,0.44 -7.37,9.4 -1.5,20.74 5.4,10.43 19.19,12.71 24.04,12.71 h 78 c 2.35,0 4.26,1.91 4.26,4.26 0,2.35 -1.89,4.26 -4.24,4.26 z" />
   </g>
   <g
@@ -915,4 +915,12 @@
       </g>
     </g>
   </g>
+  <style
+     id="style946"
+     type="text/css">
+.st0{fill:#FCC21B;}
+.st1{fill:#865A3D;}
+.st2{clip-path:url(#SVGID_2_);}
+.st3{fill:#ED6C30;}
+  </style>
 </svg>
